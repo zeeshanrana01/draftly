@@ -1,3 +1,4 @@
+
 # Draftly
 
 An AI email draft agent. Type a short idea (e.g. *"ask my manager for Friday off"*) and Draftly writes a complete email with a subject line, greeting, body, and sign-off, matching the tone to the request. Missing details become placeholders like `[Name]`.
@@ -20,3 +21,6 @@ uv run app/main.py
 cd web && npm install
 npm run dev
 ```
+
+# draftly
+0f16a705a53f94d0b44591e69bfeb8d65af9aadb
